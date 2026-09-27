@@ -4,6 +4,6 @@ function setheight($minheight = 50) {
 }
 
 setheight(350);
-setheight(); // Akan menampilkan nilai default 50
+setheight();
 setheight(135);
 ?>
